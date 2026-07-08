@@ -1,0 +1,9 @@
+-- Xom Data · Scholarship-eligible students
+-- Problem: https://xomdata.com/practice/easy-where-010
+-- Solved: 2026-07-08
+
+-- Viết SQL của bạn ở đây
+SELECT full_name, student_code, avg_score
+FROM students
+WHERE avg_score >= 8
+ORDER BY avg_score DESC
