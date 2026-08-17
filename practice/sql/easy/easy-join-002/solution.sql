@@ -1,0 +1,9 @@
+-- Xom Data · Parcels bound for Denver
+-- Problem: https://xomdata.com/practice/easy-join-002
+-- Solved: 2026-08-17
+
+-- Viết SQL của bạn ở đây
+select p.tracking_code, r.recipient_name
+from parcels p
+join recipients r on r.id = p.recipient_id
+where r.city = 'Da Nang'

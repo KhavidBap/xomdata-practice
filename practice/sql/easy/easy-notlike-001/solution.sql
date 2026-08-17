@@ -1,0 +1,8 @@
+-- Xom Data · Excluding internal accounts from the report
+-- Problem: https://xomdata.com/practice/easy-notlike-001
+-- Solved: 2026-08-17
+
+-- Viết SQL của bạn ở đây
+select email, plan
+from signups
+where not substr(email, -8) = '@corp.io'
