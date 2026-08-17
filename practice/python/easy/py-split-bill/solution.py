@@ -1,0 +1,7 @@
+# Xom Data · Split a bill into whole dong
+# Problem: https://xomdata.com/practice/py-split-bill
+# Solved: 2026-08-17
+
+def split_bill(total, people):
+    return (total // people, total % people)
+    pass
