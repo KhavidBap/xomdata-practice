@@ -1,0 +1,7 @@
+# Xom Data · Shorten an over-long title on an article card
+# Problem: https://xomdata.com/practice/py-truncate-title
+# Solved: 2026-08-18
+
+def shorten(text, limit):
+    if len(text) <= limit: return text
+    else: return text[:limit] + '...'
