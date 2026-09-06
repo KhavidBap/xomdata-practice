@@ -1,0 +1,13 @@
+# Xom Data · Decode ways
+# Problem: https://xomdata.com/practice/py-decode-ways
+# Solved: 2026-09-06
+
+def decode_ways(s):
+    n = len(s)
+    dp = [0] * (n + 1)
+    dp[n] = 1
+    for i in range(n - 1, -1, -1):
+        if s[i] != '0': dp[i] = dp[i + 1]
+        if (i + 1 < n and ((s[i] == '1' and s[i + 1] <= '9') or (s[i] == '2' and s[i + 1] <= '6'))): dp[i] += dp[i + 2]
+    return dp[0]
+    pass
