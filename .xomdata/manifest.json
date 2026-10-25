@@ -551,5 +551,6 @@
   "practice/sql/nightmare/nightmare-active-users-001/solution.sql": "ae2e20962cfeadf2f8ce564405b7a5ee68f2a5cbf76029797bf08bba28b487a9",
   "practice/sql/hard/hard-streak-001/solution.sql": "488feb4757399a47d5a15b80744100f8dfef27cca3d8cf9bae1bd2714fe9891f",
   "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "bcd007bbe7633bd15a38d5af3797d95765611f6aefa595c26ed7ed2dee0e274a",
-  "practice/sql/hard/hard-cohort-003/solution.sql": "685654415f35eab98ee37e1049868e4344d9d6a06e407a82182286fc1e688817"
+  "practice/sql/hard/hard-cohort-003/solution.sql": "685654415f35eab98ee37e1049868e4344d9d6a06e407a82182286fc1e688817",
+  "practice/sql/nightmare/nightmare-lis-001/solution.sql": "dfbe7097ec5370838f2a1506bb4eaba54bbddbe220b531a92ebbe8a732911b25"
 }
