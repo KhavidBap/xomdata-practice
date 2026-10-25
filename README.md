@@ -3,7 +3,29 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**553** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Python | 110 | 82 | 20 | 69 | 281 |
+| SQL | 88 | 117 | 33 | 34 | 272 |
+
+**Recently solved**
+
+- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-10-25
+- [nightmare-slidingmedian-001](https://xomdata.com/practice/nightmare-slidingmedian-001) · Nightmare · 2026-10-23
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-10-23
+- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-10-23
+- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-10-22
+- [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-10-22
+- [nightmare-median-freq-001](https://xomdata.com/practice/nightmare-median-freq-001) · Nightmare · 2026-10-21
+- [medium-subquery-198](https://xomdata.com/practice/medium-subquery-198) · Medium · 2026-10-20
+- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-10-19
+- [hard-session-001](https://xomdata.com/practice/hard-session-001) · Hard · 2026-10-17
+
+_Synced 553 solutions · last update 2026-10-25_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
