@@ -552,5 +552,16 @@
   "practice/sql/hard/hard-streak-001/solution.sql": "488feb4757399a47d5a15b80744100f8dfef27cca3d8cf9bae1bd2714fe9891f",
   "practice/sql/nightmare/nightmare-slidingmedian-001/solution.sql": "bcd007bbe7633bd15a38d5af3797d95765611f6aefa595c26ed7ed2dee0e274a",
   "practice/sql/hard/hard-cohort-003/solution.sql": "685654415f35eab98ee37e1049868e4344d9d6a06e407a82182286fc1e688817",
-  "practice/sql/nightmare/nightmare-lis-001/solution.sql": "dfbe7097ec5370838f2a1506bb4eaba54bbddbe220b531a92ebbe8a732911b25"
+  "practice/sql/nightmare/nightmare-lis-001/solution.sql": "dfbe7097ec5370838f2a1506bb4eaba54bbddbe220b531a92ebbe8a732911b25",
+  "practice/sql/hard/hard-gap-003/solution.sql": "0b381f5ba9190e6295d5570af3b4864934829b32229cbfb8ce0aff1cd3cd8e95",
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "28f38bb4f14028dcaf198d17c239a21b597fd8824a1d2ea0812867c40069ef95",
+  "practice/sql/nightmare/sql-nightmare-010/solution.sql": "698feda35c79df90c1f153f890550c808e46f1921299e8a32bd88b8d6ed19069",
+  "practice/sql/hard/hard-gap-001/solution.sql": "a29946538dec464037414f5da61d6e91102f3d81940b6d42855ef38d5be4c034",
+  "practice/sql/nightmare/nightmare-stadium-001/solution.sql": "2c16ef16f09561a1bd5b9b99ef247b8111ee90464c71d8a433cd4cfc382234b4",
+  "practice/sql/nightmare/nightmare-coinchange-001/solution.sql": "589c88eae3b024395a6c7c9b3f43225f95d9d6931f1ba422807d97e6b01c5607",
+  "practice/sql/nightmare/nightmare-histogram-001/solution.sql": "54f0ff69ed6125abebf8fcd852ff317f337cf150318236de6ccc8b8f5e91aae0",
+  "practice/sql/nightmare/sql-nightmare-004/solution.sql": "c17cfd3e433bc92f2ea9409126b7daef9f789e1b8835b579c655b873b927b629",
+  "practice/sql/hard/hard-mrr-001/solution.sql": "5fb05cf1bd99948f4fa65b17df8c6524d5e1bc058890e1f8176e792fd586fe48",
+  "practice/sql/hard/hard-churn-001/solution.sql": "89ea9c8293d2900c16f033a85be331b73c9b9ccd818caf32f423ae718fd29560",
+  "practice/sql/hard/hard-retention-003/solution.sql": "dbd4361de34bf5eeb18e750c5c1047b84efc3c855e034a782dc9c07a111b6cee"
 }

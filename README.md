@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**554** problems solved on [Xom Data](https://xomdata.com/practice).
+**565** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 110 | 82 | 20 | 69 | 281 |
-| SQL | 88 | 117 | 33 | 35 | 273 |
+| SQL | 88 | 117 | 39 | 40 | 284 |
 
 **Recently solved**
 
-- [nightmare-lis-001](https://xomdata.com/practice/nightmare-lis-001) · Nightmare · 2026-10-25
-- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-10-25
-- [nightmare-slidingmedian-001](https://xomdata.com/practice/nightmare-slidingmedian-001) · Nightmare · 2026-10-23
-- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-10-23
-- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-10-23
-- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-10-22
-- [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-10-22
-- [nightmare-median-freq-001](https://xomdata.com/practice/nightmare-median-freq-001) · Nightmare · 2026-10-21
-- [medium-subquery-198](https://xomdata.com/practice/medium-subquery-198) · Medium · 2026-10-20
-- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-10-19
+- [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-10-30
+- [hard-churn-001](https://xomdata.com/practice/hard-churn-001) · Hard · 2026-10-30
+- [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-10-30
+- [sql-nightmare-004](https://xomdata.com/practice/sql-nightmare-004) · Nightmare · 2026-10-29
+- [nightmare-histogram-001](https://xomdata.com/practice/nightmare-histogram-001) · Nightmare · 2026-10-29
+- [nightmare-coinchange-001](https://xomdata.com/practice/nightmare-coinchange-001) · Nightmare · 2026-10-29
+- [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-28
+- [hard-gap-001](https://xomdata.com/practice/hard-gap-001) · Hard · 2026-10-28
+- [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-10-27
+- [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-10-27
 
-_Synced 554 solutions · last update 2026-10-25_
+_Synced 565 solutions · last update 2026-10-30_
 
 <!-- xomdata:stats:end -->
 
