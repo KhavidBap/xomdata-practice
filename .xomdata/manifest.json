@@ -563,5 +563,16 @@
   "practice/sql/nightmare/sql-nightmare-004/solution.sql": "c17cfd3e433bc92f2ea9409126b7daef9f789e1b8835b579c655b873b927b629",
   "practice/sql/hard/hard-mrr-001/solution.sql": "5fb05cf1bd99948f4fa65b17df8c6524d5e1bc058890e1f8176e792fd586fe48",
   "practice/sql/hard/hard-churn-001/solution.sql": "89ea9c8293d2900c16f033a85be331b73c9b9ccd818caf32f423ae718fd29560",
-  "practice/sql/hard/hard-retention-003/solution.sql": "dbd4361de34bf5eeb18e750c5c1047b84efc3c855e034a782dc9c07a111b6cee"
+  "practice/sql/hard/hard-retention-003/solution.sql": "dbd4361de34bf5eeb18e750c5c1047b84efc3c855e034a782dc9c07a111b6cee",
+  "practice/sql/hard/hard-streak-002/solution.sql": "dd4a6c522385f90ac68b0db71e7c0d9c934187fd00db82d984fb76ab0c6fa6eb",
+  "practice/sql/hard/hard-churn-003/solution.sql": "d053eb8cae76d318c3dcb24ed0c7db09be8dbaab10173dba42d59d44c9ebdc1c",
+  "practice/sql/nightmare/nightmare-trapwater-001/solution.sql": "8c1bcfb44185858bb85a4a5e34dd2ca038f4f1e2d8901a18302e2bdf4682fd6e",
+  "practice/sql/hard/hard-rfm-005/solution.sql": "0e064f093960b4a2e2c281ea9eb0bced35ed6604cbf86881c000127e6736d2cc",
+  "practice/sql/hard/hard-cohort-002/solution.sql": "58068f1978c5f64de494c957ed8116d1cf3ecdd03161f43f1595da67f4eda6eb",
+  "practice/sql/nightmare/sql-nightmare-003/solution.sql": "ae6b5238a21d4299c03957483e8c87289dce6fdc5f4b834996587e8678d5ca41",
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "ddd82b38bb64b37f9f9174438526a49a53e886cd8cd40601ef8becb6a8b3f84e",
+  "practice/sql/nightmare/sql-nightmare-001/solution.sql": "bb565d38ecc1a3f25256125193edbeab2ca239db899d43c5e3317bcfa709e44c",
+  "practice/sql/hard/hard-retention-005/solution.sql": "9257033f3a7403775d23d8309eaba86166e6f561b0ae261c30d99b85eeb51eac",
+  "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "bf1ac4a00d44fc38444f959dddd528f37316a14c92df2420c315ce8472dd021e",
+  "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "75d71b7a1ccffc9193fd14ba299e90bde43b708e539c5cb85232c0e07ed09829"
 }
